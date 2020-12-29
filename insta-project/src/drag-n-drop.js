@@ -123,7 +123,12 @@ function DragNDrop({data, fileList, resetDb}) {
                     <div className="dnd-item_empty">Photo</div>
                     <div className="dnd-item_empty">Photo</div>
                     <div className="dnd-item_empty">Photo</div>
-
+                    <div className="dnd-item_empty">Photo</div>
+                    <div className="dnd-item_empty">Photo</div>
+                    <div className="dnd-item_empty">Photo</div>
+                    <div className="dnd-item_empty">Photo</div>
+                    <div className="dnd-item_empty">Photo</div>
+                    <div className="dnd-item_empty">Photo</div>
                 </div>
             </div>
         )
