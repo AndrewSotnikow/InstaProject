@@ -2,17 +2,11 @@
 web application dedicated for planning instagram feed. It’s a graduation project 
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
 ![Example screenshot](./img/Screenshot.png)
@@ -23,11 +17,9 @@ Add more general information about project. What the purpose of the project is? 
 * Firebase DB - version 3.0
 
 ## Setup
-
 feedplaner.sot-dev.com
 
 ## Features
-List of features ready and TODOs for future development
 * Upload images and create a grid using drag and drop
 * Save the images in the same order as you did
 
