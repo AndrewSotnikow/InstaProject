@@ -9,12 +9,12 @@ web application dedicated for planning instagram feed. It’s a graduation proje
 * [Status](#status)
 
 ## Screenshots
-![Example screenshot](./img/Screenshot.png)
+![Example screenshot](./insta-project/img/Screenshot.png)
 
 ## Technologies
-* React JS - version 1.0
-* SASS - version 2.0
-* Firebase DB - version 3.0
+* React JS - version 17.0.1
+* CSS3
+* Firebase DB - version 7.24.0
 
 ## Setup
 feedplaner.sot-dev.com
