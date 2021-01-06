@@ -9,7 +9,7 @@ web application dedicated for planning instagram feed. It’s a graduation proje
 * [Status](#status)
 
 ## Screenshots
-![Example screenshot](./insta-project/img/screenshot.png)
+![Example screenshot](./insta-project/img/screenshot.jpg)
 
 ## Technologies
 * React JS - version 17.0.1
